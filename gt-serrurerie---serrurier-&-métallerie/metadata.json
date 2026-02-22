@@ -1,0 +1,5 @@
+{
+  "name": "GT Serrurerie - Serrurier & Métallerie",
+  "description": "Site vitrine pour GT Serrurerie : dépannage d'urgence, ouverture de porte et métallerie sur mesure à Bordeaux et en Gironde.",
+  "requestFramePermissions": ["geolocation"]
+}
